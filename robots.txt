@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-xnjrs7.abutogel8ng.sbs/sitemap.xml
